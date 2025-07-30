@@ -30,7 +30,7 @@ h1 {
 
 h1 a{ 
     text-decoration: none;
-    color : #e2b600; <!--Heading  color-->
+    color : #AC9155; <!--Heading  color-->
 }
 
 h2{
@@ -75,7 +75,7 @@ img {
     -webkit-animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
             animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
     background: transparent;
-    border: 5px solid #e2b600; <!-- picture border color -->
+    border: 5px solid #AC9155; <!-- picture border color -->
     display: flex;
     float:right;
     margin: 12px;
@@ -87,7 +87,7 @@ ul.h {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #27348b; <!-- banner  color -->
+    background-color: #501214; <!-- banner  color -->
 }
 
 li.h {
